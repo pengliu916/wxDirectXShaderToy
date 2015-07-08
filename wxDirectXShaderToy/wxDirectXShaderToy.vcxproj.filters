@@ -18,9 +18,21 @@
     <ClInclude Include="ShaderToyApp.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="DXFrame.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DXGfxCore.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="ShaderToyApp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DXFrame.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DXGfxCore.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
